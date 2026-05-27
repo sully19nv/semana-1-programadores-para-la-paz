@@ -1,0 +1,12 @@
+Es imoportante que las comunidades puedan construir herramientas tecnoplogicas
+propias por que les permiten resolver problemas reales 
+de su entorno de manera autonoma 
+tecnologias abiertas como Node.js facilita el acceso al desarrollo 
+de software sin altos costos.Esto promueve la innovacion local 
+y fortalece las capacidades digitales de las personas. Ademas, ayuda a crear
+soluciones adaptadas a las necesidades de la comunidad.
+El uso de software libre fomenta la colaboracion y el aprendizaje libre compartido 
+tambien brinda oportunidades de emprendimiento y desarrollo economico
+las comunidades pueden volverse mas independientes tecnologicamente 
+finalmetnte, aprender estas herramientas prepara a los ciudadanos para participar 
+activamente en el mundo digital
