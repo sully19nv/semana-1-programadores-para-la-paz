@@ -1,0 +1,5 @@
+Al consultar la ruta GET /reportes, el servidor devuelve todos los reportes que han sido 
+registrados mediante la ruta POST. Los datos se almacenan temporalmente en un array llamado 
+reportes y se muestran en formato JSON. Cada nuevo reporte recibe un identificador único y se 
+agrega a la lista. Si el servidor se reinicia, los reportes desaparecen porque se guardan 
+únicamente en memoria y no en una base de datos.
