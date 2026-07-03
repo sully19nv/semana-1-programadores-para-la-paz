@@ -1,0 +1,17 @@
+Evento:
+Cuando un ciudadano registra un nuevo reporte.
+
+Acción:
+Enviar una notificación a Telegram.
+
+Mensaje:
+"Nuevo reporte recibido. Revisar la plataforma."
+
+Información que no debe enviarse:
+
+- Nombres completos
+- Cédulas
+- Direcciones
+- Teléfonos
+- Contraseñas
+- Información sensible
