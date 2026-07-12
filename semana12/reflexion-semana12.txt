@@ -1,0 +1,12 @@
+Durante este curso aprendí cómo la tecnología puede
+ ayudar a fortalecer la participación ciudadana y la 
+ organización comunitaria. Comprendí la importancia de 
+ usar herramientas como GitHub, Node.js, bases de datos y 
+ automatización para crear soluciones útiles. También aprendí 
+ que los datos personales deben protegerse y utilizarse de forma responsable. 
+ La integración entre backend, documentos y automatización permite desarrollar 
+ plataformas más eficientes. Además, entendí que la tecnología puede facilitar 
+ la comunicación entre ciudadanos y organizaciones. Este curso me permitió adquirir 
+ nuevos conocimientos que podré aplicar en futuros proyectos. Considero que estas herramientas 
+ son muy importantes para desarrollar soluciones que beneficien a las comunidades. Me siento 
+ satisfecha con lo aprendido y motivada para seguir fortaleciendo mis habilidades en programación.
